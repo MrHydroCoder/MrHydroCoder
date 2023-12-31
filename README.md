@@ -1,6 +1,8 @@
 <div>
     <div align="center">
-        <a href="https://github.com/MrHydroCoder"><img src="https://cdn.mrayush.me/img/Github-Readme/GitHub.png" height="200" /></a>
+        <a href="https://github.com/MrHydroCoder">
+            <img src="https://cdn.mrayush.me/img/Github-Readme/GitHub.png" height="200" />
+        </a>
     </div>
     <div align="center">
         <a href="https://github.com/MrHydroCoder">
