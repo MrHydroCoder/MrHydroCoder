@@ -127,7 +127,7 @@ About Me = [
     <br>
 
 <!--START_SECTION:MrHydroCoder-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C020%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -137,7 +137,7 @@ About Me = [
 
 > 📦 66.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,014 Contributions in the Year 2026
+> 🏆 1,015 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -148,18 +148,18 @@ About Me = [
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2018 commits        █████████░░░░░░░░░░░░░░░░   37.79 % 
+🌞 Morning                2018 commits        █████████░░░░░░░░░░░░░░░░   37.78 % 
 🌆 Daytime                1155 commits        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-🌃 Evening                1148 commits        █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-🌙 Night                  1019 commits        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+🌃 Evening                1148 commits        █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+🌙 Night                  1020 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   754 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Tuesday                  757 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Tuesday                  757 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
 Wednesday                783 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Thursday                 795 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Thursday                 796 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
 Friday                   755 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 Saturday                 737 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
 Sunday                   759 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
@@ -170,16 +170,17 @@ Sunday                   759 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 24 mins       █████████████████████░░░░   84.67 % 
-Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   3 hrs 30 mins       ██████████████████░░░░░░░   73.63 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
