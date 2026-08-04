@@ -127,7 +127,7 @@ About Me = [
     <br>
 
 <!--START_SECTION:MrHydroCoder-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -137,7 +137,7 @@ About Me = [
 
 > 📦 66.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,039 Contributions in the Year 2026
+> 🏆 1,040 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -148,19 +148,19 @@ About Me = [
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2023 commits        █████████░░░░░░░░░░░░░░░░   37.71 % 
-🌆 Daytime                1164 commits        █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+🌞 Morning                2023 commits        █████████░░░░░░░░░░░░░░░░   37.70 % 
+🌆 Daytime                1164 commits        █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
 🌃 Evening                1154 commits        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-🌙 Night                  1024 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+🌙 Night                  1025 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   759 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Tuesday                  757 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Monday                   759 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Tuesday                  758 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 Wednesday                783 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
 Thursday                 800 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Friday                   760 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Friday                   760 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
 Saturday                 742 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
 Sunday                   764 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 ```
@@ -170,17 +170,18 @@ Sunday                   764 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 58 mins       ██████████████████░░░░░░░   70.26 % 
-JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Python                   2 hrs 22 mins       ████████████████░░░░░░░░░   64.66 % 
+JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 37 mins       █████████████████████████   98.89 % 
+Android Studio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Operating System: 
-Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
