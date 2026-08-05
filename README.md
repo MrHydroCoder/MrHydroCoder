@@ -137,7 +137,7 @@ About Me = [
 
 > 📦 66.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,044 Contributions in the Year 2026
+> 🏆 1,045 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -148,21 +148,21 @@ About Me = [
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2024 commits        █████████░░░░░░░░░░░░░░░░   37.69 % 
+🌞 Morning                2024 commits        █████████░░░░░░░░░░░░░░░░   37.68 % 
 🌆 Daytime                1166 commits        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-🌃 Evening                1155 commits        █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-🌙 Night                  1025 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+🌃 Evening                1155 commits        █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+🌙 Night                  1026 commits        █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   759 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 Tuesday                  762 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Wednesday                783 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Thursday                 800 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Wednesday                784 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Thursday                 800 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 Friday                   760 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Saturday                 742 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Sunday                   764 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Saturday                 742 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Sunday                   764 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 ```
 
 
@@ -170,18 +170,18 @@ Sunday                   764 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 22 mins       ████████████████░░░░░░░░░   64.66 % 
-JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Markdown                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   1 hr 7 mins         ██████████████░░░░░░░░░░░   55.89 % 
+YAML                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+JSON                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+CSV                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 37 mins       █████████████████████████   98.89 % 
-Android Studio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+VS Code                  1 hr 58 mins        ████████████████████████░   97.99 % 
+Android Studio           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
